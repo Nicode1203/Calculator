@@ -86,3 +86,17 @@ button:nth-child(15):hover,
 button:nth-child(17):hover {
   background-color: #391364;
 }
+
+button:nth-child(4),
+button:nth-child(8),
+button:nth-child(12),
+button:nth-child(16) {
+  background-color: #8a7bfe;
+}
+
+button:nth-child(4):hover,
+button:nth-child(8):hover,
+button:nth-child(12):hover,
+button:nth-child(16):hover {
+  background-color: #604df1;
+}
