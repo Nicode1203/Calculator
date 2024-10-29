@@ -4,7 +4,7 @@ Welcome to my **Calculator Project**! This project is a fully functional calcula
 
 [🔗 View the Project](https://nicode1203.github.io/Calculator/)
 
-![Calculator Preview](.assets/calculator-preview.png) 
+![Calculator Preview](assets/calculator-preview.png) 
 
 ## 🚀 Features
 - **Basic Arithmetic Operations**: Add, subtract, multiply, and divide.
