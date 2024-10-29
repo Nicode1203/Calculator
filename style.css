@@ -6,7 +6,7 @@ html {
   align-items: center;
   height: 100vh;
   margin: 0;
-  background-color: #64e79f;
+  background-color: #2d303a;
   flex-direction: column;
   font-family: "Orbitron", sans-serif;
 }
@@ -14,10 +14,19 @@ html {
 
 h1 {
   text-align: center;
-  color: #333;
+  color: #526cc0;
   font-size: 3em;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
+
+h2 {
+    text-align: center;
+    color: #93abe1;
+    font-size: 15px;
+    margin-top: 2px;
+    margin-bottom: 20px;
+    font-weight: 500;
+  }
 
 
 .calculator {
@@ -99,4 +108,18 @@ button:nth-child(8):hover,
 button:nth-child(12):hover,
 button:nth-child(16):hover {
   background-color: #604df1;
+}
+
+.github-link {
+    display: block; 
+    text-align: center; 
+    margin-top: 40px; 
+}
+
+.github-logo {
+    filter: invert(35%) sepia(83%) saturate(1754%) hue-rotate(200deg) brightness(90%) contrast(95%);
+    width: 50px; 
+    max-width: 10vw;
+    height: auto; 
+    
 }
