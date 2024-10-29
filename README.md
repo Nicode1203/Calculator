@@ -1,4 +1,4 @@
-# 📱 :thumbsup: Calculator
+# 📱 :thumbsup: My Calculator
 
 Welcome to my **Calculator Project**! This project is a fully functional calculator built with **HTML, CSS, and JavaScript**. The goal is to replicate the behavior of a traditional calculator with a polished design and smooth animations.
 

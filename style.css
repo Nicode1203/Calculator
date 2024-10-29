@@ -34,6 +34,7 @@ h1 {
 
 
 .display {
+    font-family: 'Orbitron', sans-serif;
   width: 80%;
   height: 50px;
   font-size: 1.5em;
@@ -43,7 +44,7 @@ h1 {
   border: 3px solid rgba(64, 10, 124, 255);
   border-radius: 5px;
   background-color: #64517c;
-  color: #fff;
+  color: #23cf49;
 }
 
 /* Botones */
