@@ -2,7 +2,9 @@
 
 Welcome to my **Calculator Project**! This project is a fully functional calculator built with **HTML, CSS, and JavaScript**. The goal is to replicate the behavior of a traditional calculator with a polished design and smooth animations.
 
-![Calculator](https://nicode1203.github.io/Calculator/) WIP
+[🔗 View the Project](https://nicode1203.github.io/Calculator/)
+
+![Calculator Preview](.assets/calculator-preview.png) 
 
 ## 🚀 Features
 - **Basic Arithmetic Operations**: Add, subtract, multiply, and divide.
